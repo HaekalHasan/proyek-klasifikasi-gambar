@@ -30,7 +30,10 @@ Sebelum menjalankan proyek ini, pastikan Anda telah menginstal semua dependensi 
    ```bash
    pip install -r requirements.txt
    ```
-
-2. **Menyiapkan Dataset**:
+   
+2. **Download Model**:
+   - Unduh model di [Download model.zip](https://drive.google.com/file/d/1h5mhEOXu7AcNxLz_e8LcA5ya2B9wnrkz/view?usp=sharing)
+     
+3. **Menyiapkan Dataset**:
    - Unduh dataset dari [link Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data).
    - Ekstrak dataset dan letakkan dalam direktori yang sesuai.
